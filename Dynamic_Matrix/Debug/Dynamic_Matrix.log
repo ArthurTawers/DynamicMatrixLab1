@@ -1,0 +1,10 @@
+﻿  DynamicMatrixClass.cpp
+C:\Users\Артур\Desktop\Предметы\Программирование\Dynamic_Matrix\Dynamic_Matrix\DynamicMatrixClass.cpp(78,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Артур\Desktop\Предметы\Программирование\Dynamic_Matrix\Dynamic_Matrix\DynamicMatrixClass.cpp(92,25): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Артур\Desktop\Предметы\Программирование\Dynamic_Matrix\Dynamic_Matrix\DynamicMatrixClass.cpp(94,26): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Артур\Desktop\Предметы\Программирование\Dynamic_Matrix\Dynamic_Matrix\DynamicMatrixClass.cpp(117,13): warning C4101: i: неиспользованная локальная переменная
+C:\Users\Артур\Desktop\Предметы\Программирование\Dynamic_Matrix\Dynamic_Matrix\DynamicMatrixClass.cpp(132,13): warning C4101: i: неиспользованная локальная переменная
+  Main.cpp
+  Создание кода...
+C:\Users\Артур\Desktop\Предметы\Программирование\Dynamic_Matrix\Dynamic_Matrix\DynamicMatrixClass.cpp(121): warning C4715: DynamicMatrixClass::SearchElem: значение возвращается не при всех путях выполнения
+  Dynamic_Matrix.vcxproj -> C:\Users\Артур\Desktop\Предметы\Программирование\Dynamic_Matrix\Debug\Dynamic_Matrix.exe
